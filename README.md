@@ -7,6 +7,7 @@ The system is designed by students Anish Agarwal, Victor Ojukwu, Stephen Ting, Z
 The major creation of this project was the design of a compact and light-weight embedded system which can do both image processing and real-time controls analysis. The design which we created integrated a single board computer, the Raspberry PI and two standard microcontrollers. The Raspberry PI was used for image processing and the two microcontrollers were responsible for control theory analysis and outputting to the motors. The custom designed embedded system is shown in the 4 figures below. The pictures show the two microcontrollers, the side view of the entire system, the integrated Raspberry PI and the sensor board.
 
 The reset of the quadcopter contained stock parts consisting of Electronic Speed Controllers, Brushless DC Motors ("The Baby Beast"), a Lithium Polymer Battery, Carbon Fibre frame and 5 inch propellers. Different configurations were tried to produce the optimal design. Video demonstrations of the working system are at the bottom of the page.
+<hr>
 
 ![alt tag](https://raw.githubusercontent.com/veda-s4dhak/FollowCam/master/Poster.PNG?raw=true)
 
