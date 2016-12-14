@@ -1,5 +1,3 @@
-#FollowCam:
-
 ![alt tag](https://raw.githubusercontent.com/veda-s4dhak/FollowCam/master/Poster.PNG?raw=true)
 
 #Demonstration Footage
