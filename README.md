@@ -1,4 +1,4 @@
-<h>FollowCam:</h>
+<h1>FollowCam:</h1>
 
 The multi-rotor system shown below can track the human form autonomously. Currently the multi-rotor tracks the user only by rotation, more dynamic movement capability is being worked on at the moment. The system uses image processing in order to detect and track the human form. Once the image processing is confident that a user is in the field of vision, then the control system is activated and begins to send commands to the motors to rotate accordingly. A PID controller (Proportional, Intergral and Derivative) is used to control the amount of power going to each motor.
 
