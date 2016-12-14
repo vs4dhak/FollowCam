@@ -8,12 +8,11 @@ The major creation of this project was the design of a compact and light-weight 
 
 The reset of the quadcopter contained stock parts consisting of Electronic Speed Controllers, Brushless DC Motors ("The Baby Beast"), a Lithium Polymer Battery, Carbon Fibre frame and 5 inch propellers. Different configurations were tried to produce the optimal design. Video demonstrations of the working system are at the bottom of the page.
 
-<hr>
-<br>
-
 ![alt tag](https://raw.githubusercontent.com/veda-s4dhak/FollowCam/master/Poster.PNG?raw=true)
 
 #Demonstration Footage
 Video 1: https://www.youtube.com/watch?v=D9XE87QOBpg </br>
 Video 2: https://www.youtube.com/watch?v=N3HvmY-s_i8 </br>
 Video 3: https://www.youtube.com/watch?v=aA82wMc2FgU
+
+More details on the system can be seen at http://anishagarwal.org/maht.php
