@@ -1,4 +1,4 @@
-
+![alt tag](https://raw.githubusercontent.com/veda-s4dhak/FollowCam/master/Poster.PNG?raw=true
 
 #Testing Footage
 Video 1: https://www.youtube.com/watch?v=D9XE87QOBpg </br>
